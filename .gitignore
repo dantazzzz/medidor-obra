@@ -1,0 +1,10 @@
+# sistema / editor
+Thumbs.db
+.DS_Store
+*.bak
+*.tmp
+
+# artefatos de build (o Arduino IDE compila fora da pasta, mas por garantia)
+build/
+*.bin
+*.elf
