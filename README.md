@@ -106,7 +106,11 @@ posição do sol (altura e azimute) ao longo do dia — astronomia clássica, of
 
 ## 🙏 Créditos
 
-- **Desenvolvimento:** Murillo Vinícius — GitHub [@dantazzzz](https://github.com/dantazzzz) · murillovinicius18@gmail.com
+**Autores / Contribuições:**
+- **Murillo Vinícius** — GitHub [@dantazzzz](https://github.com/dantazzzz) · murillovinicius18@gmail.com
+- **Amanda Célia Aparecida da Silva**
+
+**Mais:**
 - **Instituição:** Centro Universitário Belas Artes de São Paulo (FEBASP)
 - **Drivers da placa:** demos oficiais da [Waveshare](https://www.waveshare.com/wiki/ESP32-S3-Touch-LCD-1.46B)
 - **Interface gráfica:** [LVGL](https://lvgl.io) 8.3 (licença MIT)
